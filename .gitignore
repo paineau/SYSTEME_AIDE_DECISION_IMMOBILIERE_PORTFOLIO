@@ -1,0 +1,13 @@
+data/
+outputs/
+*.parquet
+*.csv
+*.xlsx
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+__pycache__/
+.venv/
+.ipynb_checkpoints/
